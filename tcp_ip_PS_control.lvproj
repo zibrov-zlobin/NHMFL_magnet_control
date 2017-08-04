@@ -46,12 +46,12 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Extract Double From String.vi" Type="VI" URL="../../../../Shared/NML Data Acquisition/Sub VIs/Extract Double From String.vi"/>
-			<Item Name="Find Named Control.vi" Type="VI" URL="../../../../Shared/NML Data Acquisition/Sub VIs/Find Named Control.vi"/>
-			<Item Name="Get All Control Refs.vi" Type="VI" URL="../../../../Shared/NML Data Acquisition/Sub VIs/Get All Control Refs.vi"/>
-			<Item Name="Get Server Port Number.vi" Type="VI" URL="../../../../Shared/NML Data Acquisition/Sub VIs/Get Server Port Number.vi"/>
-			<Item Name="LV Versions Enum.ctl" Type="VI" URL="../../../../Shared/NML Data Acquisition/Sub Controls/LV Versions Enum.ctl"/>
-			<Item Name="Set LV TCP-IP Server Port.vi" Type="VI" URL="../../../../Shared/NML Data Acquisition/Sub VIs/Set LV TCP-IP Server Port.vi"/>
+			<Item Name="Extract Double From String.vi" Type="VI" URL="../subvi/Extract Double From String.vi"/>
+			<Item Name="Find Named Control.vi" Type="VI" URL="../subvi/Find Named Control.vi"/>
+			<Item Name="Get All Control Refs.vi" Type="VI" URL="../subvi/Get All Control Refs.vi"/>
+			<Item Name="Get Server Port Number.vi" Type="VI" URL="../subvi/Get Server Port Number.vi"/>
+			<Item Name="LV Versions Enum.ctl" Type="VI" URL="../typedefs/LV Versions Enum.ctl"/>
+			<Item Name="Set LV TCP-IP Server Port.vi" Type="VI" URL="../subvi/Set LV TCP-IP Server Port.vi"/>
 			<Item Name="states.ctl" Type="VI" URL="../typedefs/states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
